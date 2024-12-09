@@ -1,1 +1,10 @@
 .rouge{color: red}
+
+.login{display: none}
+.chat{display: none}
+.felix{
+    background-color: green;
+}
+.user{
+    background-color: yellow;
+}
